@@ -1,5 +1,3 @@
-# ai-voicebot-customer-support
-
 # AI Voice Bot – Customer Support Automation
 
 ## Overview
@@ -18,9 +16,6 @@ POST /voicebot
 ## How to Run
 pip install -r requirements.txt  
 uvicorn main:app --reload
-
-## Example
-Upload WAV file → Get response audio
 
 ## Author
 Anoop Pandey
